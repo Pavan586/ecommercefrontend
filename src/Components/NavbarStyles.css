@@ -1,0 +1,23 @@
+.cont {
+    list-style-type: none;
+    margin: 0;
+    padding: 1px;
+    overflow: hidden;
+    background-color: lightblue;
+  }
+  
+.con {
+    float: left;
+    padding: 20px;
+  }
+.back {
+    float: right;
+    padding: 20px;
+
+  }
+h1 {
+    color:cadetblue;
+}
+.cart {
+  color:white
+}
